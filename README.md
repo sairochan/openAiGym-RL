@@ -11,7 +11,7 @@ To enhance the performance of the RL algorithms, utilized techniques such as exp
 
 By evaluating the performance of these RL algorithms in various custom complex gym and Atari environments, we were able to observe their effectiveness in navigating and optimizing performance. Through the analysis of rewards plots and results, we gained insights into the learning capabilities and adaptability of the RL agents in these complex virtual worlds.
 
-Samples:  Explore & Exploit (Motivation) 
+Samples: 
 
 <img src="https://github.com/sairochan/Reinforcement-Learning/assets/26859533/19b501b5-76f1-4738-80ba-d3af55308411)" width="250" height="250"/>
 <img src="https://github.com/sairochan/Reinforcement-Learning/assets/26859533/1ecb715f-e74d-4daa-9971-90ef91990cff" width="250" height="250"/>
